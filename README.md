@@ -116,11 +116,10 @@
 ❤️ thank you so much for reading it ❤️
 </li>
 </ul>
-</div>
-<div>
-<a  href="https://app.daily.dev/dartpilot017"><img  src="https://api.daily.dev/devcards/1a2854d54a434f67b4ccb6adb3de6c92.png?r=od8"  width="400"  alt="DartPilot017's Dev Card"/></a>
-</div>
 
+<p align="center">
+<a  href="https://app.daily.dev/dartpilot017"><img  src="https://api.daily.dev/devcards/1a2854d54a434f67b4ccb6adb3de6c92.png?r=od8"  width="400"  alt="DartPilot017's Dev Card"/></a>
+</p>
 
   
   
