@@ -24,8 +24,6 @@
 
 </div>
 
-<div  align ="center">
-
 <p>
 <img  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  alt="OS-Linux">
 
@@ -36,66 +34,41 @@
 <img  src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"  alt="windows-11">
 </p>
 
-</div>
-<a href="https://app.daily.dev/dartpilot017"><img src="https://api.daily.dev/devcards/1a2854d54a434f67b4ccb6adb3de6c92.png?r=od8" width="400" alt="DartPilot017's Dev Card"/></a><div>
-
+<p>
+<div>
 <h3>Hi 👋 my name is Phillip 😎</h3>
-
 </a>
-
 <ul>
-
 <li>
-
 🤗 I'm a Software Engineer 🥳
-
 </li>
-
 <li>
-
 👉 I'm a man student 👨‍🎓
-
 </li>
-
 <li>
-
 📝 And I'm learning JavaScript and NodeJS but I'm very lazy 😅
-
 </li>
-
 <li>
-
 🏡 I'm living in a small city in <code>Nigeria</code> NG 👈 🏙️
-
 </li>
-
 <li>
-
 ✍️ I want to learn <code>Data Science</code> and <code>how to write a backend code well</code> 👀
-
 </li>
-
 <li>
-
 💯 I'm very happy when you read my profile but I don't think my profile is professional 🙄
-
 </li>
-
 <li>
-
 💬 I hope you will like my profile 👍
-
 </li>
-
 <li>
-
 ❤️ thank you so much for reading it ❤️
-
 </li>
-
 </ul>
-
 </div>
+<div>
+<a href="https://app.daily.dev/dartpilot017"><img src="https://api.daily.dev/devcards/1a2854d54a434f67b4ccb6adb3de6c92.png?r=od8" width="400" alt="DartPilot017's Dev Card"/></a>
+</div>
+</p>
 
 <!-- <div>
 
