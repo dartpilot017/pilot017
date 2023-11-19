@@ -98,7 +98,7 @@
 
 <li>
 
-🏡 I'm living in a small city in <code>Nigeria</code>  👈 🏙️
+🏡 I'm living in a small city in <code>Nigeria</code>🇳🇬👈 🏙️
 
 </li>
 
