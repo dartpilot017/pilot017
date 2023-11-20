@@ -75,42 +75,21 @@
 <div>
 <h3>Hi 👋 my name is Phillip 😎</h3>
 </a>
-
 <ul>
-
 <li>
-
-🤗 I'm a Software Engineer 🥳
-
-</li>
-
-<li>
-
-👉 I'm a maths student 👨‍🎓
-
-</li>
-
-<li>
-
-📝 And I'm learning JavaScript and NodeJS but I'm very lazy 😅
-
-</li>
-
-<li>
-
-🏡 I'm living in a small city in <code>Nigeria</code>🇳🇬👈 🏙️
-
-</li>
-
-<li>
-
-✍️ I want to learn <code>Data Science</code> and <code>how to write a backend code well</code> 👀
+🤗 I'm a Software Engineer
 </li>
 <li>
-💯 I'm very happy when you read my profile but I don't think my profile is professional 🙄
+📝 And I'm learning JavaScript and NodeJS
 </li>
 <li>
-💬 I hope you will like my profile 👍
+👯💯 I’m looking to collaborate on Any project
+</li>
+<li>
+  📫 How to reach me <a href="mailto:obazephillip017@gmail.com">obazephillip017@gmail.com</a>
+</li>
+<li>
+💬 I hope you will like my profile
 </li>
 <li>
 ❤️ thank you so much for reading it ❤️
@@ -179,20 +158,19 @@ alt="top langs"  />
 </p>
 <p  align="center">
 ❤️
-<!-- <a  href="https://www.facebook.com/profile.php?id=100016824016369"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-alt="lê bá thắng"  height="30"  width="40"/></a>
-<--<a  href="https://twitter.com/Thang_pr0vjp123"  target="blank"><img  align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-alt="provjp"  height="30"  width="40"  /></a> -->
 <a  href="https://www.instagram.com/dartpilot017/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
 alt="lebathang"  height="30"  width="40"  /></a>
 <a  href="https://discord.com/channels/@me/1105956839536984176" target="blank"><img  align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
 alt="@lebathang7b" height="30" width="40"  /></a>
-<!-- <a  href="https://stackoverflow.com/users/19120952"  target="blank"><img  align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-alt="user:19120952"  height="30"  width="40"  /></a>  -->
 ❤️
+</p>
+
+<p align="center"> 
+  <div align="center">Visitor count</div>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/pilot017/count.svg"/>
+  </div> 
 </p>
 </div>
 
